@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/kingcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kingcat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kingcat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kingcat" height="30" width="40" /></a>
+<a href="https://youtu.be/rl0czzipZhk?si=5xaJ6MFdyMvkNP5M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kingcat" height="30" width="40" /></a>
+<a href="https://youtu.be/xvFZjo5PgG0?si=3r8lrPPpK4lzPQVu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kingcat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kingcat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kingcat" height="30" width="40" /></a>
 </p>
 
